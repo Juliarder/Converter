@@ -1,0 +1,18 @@
+.container{
+    width: 70vw;
+    height: 70vh;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin: 15vh auto;
+    box-shadow: 10px 10px 40px gray;
+    padding: 30px;
+    color: black;
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 200px;
+}
